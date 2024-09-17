@@ -25,7 +25,8 @@ def artwork():
       ░   ░ ░  ░      ░  ▒   ▒▒ ░ ▒ ░░ ░ ▒  ░ ▒ ░▒░ ░  ▒   ▒▒ ░  ░  ▒   ░ ░▒ ▒░
     ░ ░   ░ ░      ░     ░   ▒    ▒ ░  ░ ░    ░  ░░ ░  ░   ▒   ░        ░ ░░ ░
           ░        ░         ░  ░ ░      ░  ░ ░  ░  ░      ░  ░░ ░      ░  ░
-                                                               ░'Created By Rami'')
+                                                               ░''')
+    * Created By Rami
 artwork()
 smtp = smtplib.SMTP("smtp.gmail.com", GMAIL_PORT)
 

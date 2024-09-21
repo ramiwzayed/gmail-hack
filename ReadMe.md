@@ -29,5 +29,5 @@
 * `python3 Mail-Hack.py`
 
 ## If it does not work then the command:
-* `python3 Mail-Hack.py`
+* `cd && cd Gmail-Hack && python3 Mail-Hack.py`
 

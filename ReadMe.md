@@ -14,6 +14,7 @@
 ## Tool tested on:
 
 * `Linux`
+* `Termux`
 
 ---
 

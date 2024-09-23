@@ -26,6 +26,13 @@
 * `cd Gmail-Hack`
 * `bash install.sh`
 
+termux-setup-storage* `apt upgrade`
+apt full-upgrade* `apt upgrade`
+* `apt install git`
+* `git clone https://github.com/mishakorzik/Gmail-Hack`
+* `cd Gmail-Hack`
+* `bash install.sh`
+
 ## Start Gmail-Hack
 * `python3 Mail-Hack.py`
 

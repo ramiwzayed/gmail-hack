@@ -8,6 +8,7 @@
 #### will download 1-2 minutes
 
 * `Linux`
+* `Termux`
 
 #### Here on these systems works AllHackingTools
 

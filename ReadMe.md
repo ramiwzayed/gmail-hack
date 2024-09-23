@@ -26,6 +26,7 @@
 * `cd Gmail-Hack`
 * `bash install.sh`
 
+## Installing for Termux
 * `termux-setup-storage`
 * `apt full-upgrade`
 * `apt install git`

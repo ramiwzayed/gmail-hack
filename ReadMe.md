@@ -10,7 +10,6 @@
 * `Linux`
 * `Termux`
 
-#### Here on these systems works AllHackingTools
 
 ## Tool tested on:
 

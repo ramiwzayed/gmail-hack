@@ -10,12 +10,6 @@
 * `Linux`
 * `Termux`
 
-
-## Tool tested on:
-
-* `Linux`
-* `Termux`
-
 ---
 
 ## Installing for linux

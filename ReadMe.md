@@ -29,8 +29,9 @@
 * `bash install.sh`
 
 ## Start Gmail-Hack
-* `python3 Mail-Hack.py`
+* `cd && cd Gmail-Hack && python3 Mail-Hack.py`
+
 
 ## If it does not work then the command:
-* `cd && cd Gmail-Hack && python3 Mail-Hack.py`
+* `python3 Mail-Hack.py`
 
